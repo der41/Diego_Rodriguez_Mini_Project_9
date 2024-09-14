@@ -30,9 +30,11 @@ Diego_Rodriguez_Miniproject2/
 ├── test_main.py
 └── test.csv
 ```
+## Youtube video
+[Walkthrough the project](https://www.youtube.com)
 
 ## Purpose of project
-The purpose of this project is to present some transformation of data using Pandas and automating the publishing process into Data_summary.md. 
+The purpose of this project is to present some transformation of data using Pandas with World Bank data and automating the publishing process into Data_summary.md with CI/CD. 
 
 
 ## Visualizations
