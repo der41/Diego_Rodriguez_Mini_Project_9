@@ -67,7 +67,7 @@ Describe Mortality rate, infant (per 1,000 live births):
 
 ## Requirements
 devops
-black ==22.3.0 - Formatter
+black ==22.3.0 - Formatter 
 click == 8.1.3
 pytest == 7.4.0  - For Testing
 pytest-cov == 4.0.0 - For Testing
@@ -89,5 +89,5 @@ jupyter == 1.0.0
 tabulate==0.9.0
 
 ## CI/CD
-Testing files go with the name test_*
+Testing files go with the name test_* and work for main and library files. 
 
