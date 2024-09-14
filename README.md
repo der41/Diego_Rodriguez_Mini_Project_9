@@ -16,7 +16,7 @@ Diego_Rodriguez_Individual_Project#1/
 |   └── workflows/test.yml
 ├── Images/
 │   ├── plot.png
-|   └── test_plot.pmg
+|   └── test_plot.png
 ├── mylib/
 |   └── lib.py
 ├── .gitignore
