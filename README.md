@@ -2,10 +2,10 @@
 [![Format](https://github.com/nogibjj/Diego_Rodriguez_Individual_Project1/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/Diego_Rodriguez_Individual_Project1/actions/workflows/format.yml)
 [![Lint](https://github.com/nogibjj/Diego_Rodriguez_Individual_Project1/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/Diego_Rodriguez_Individual_Project1/actions/workflows/lint.yml)
 [![Test](https://github.com/nogibjj/Diego_Rodriguez_Individual_Project1/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/Diego_Rodriguez_Individual_Project1/actions/workflows/test.yml)
-# IDS706-Individual Project #1
+# IDS706-Miniproject #9
 ## File Structure 
 ```
-Diego_Rodriguez_Individual_Project#1/
+Diego_Rodriguez_Mini_Project#9/
 ├── .devcontainer/
 │   ├── devcontainer.json
 │   └── Dockerfile
@@ -23,6 +23,7 @@ Diego_Rodriguez_Individual_Project#1/
 ├── Data_summary.md
 ├── main.ipynb
 ├── main.py
+├── main_colab.ipynb
 ├── Makefile
 ├── README.md
 ├── requirements.txt
@@ -30,11 +31,9 @@ Diego_Rodriguez_Individual_Project#1/
 ├── test_main.py
 └── test.csv
 ```
-## Youtube video
-[Walkthrough the project](https://www.youtube.com/watch?v=V1b-8KlwHVU)
 
 ## Purpose of project
-The purpose of this project is to present some transformation of data using Pandas with World Bank data and automating the publishing process into Data_summary.md with CI/CD. 
+The purpose of this project is to present some transformation of data using Pandas with World Bank data and automating the publishing process into Data_summary.md with CI/CD. A copy of this procedure is done on Jupyter Notebook with a local copy uploaded by CLI and another one from Google Colab. 
 
 
 ## Visualizations
